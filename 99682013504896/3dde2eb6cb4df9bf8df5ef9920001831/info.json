@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682013504896/3dde2eb6cb4df9bf8df5ef9920001831",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2902,
+  "height": 4096,
+  "sizes": [
+    {
+      "width": 212,
+      "height": 300
+    },
+    {
+      "width": 1417,
+      "height": 2000
+    }
+  ]
+}
