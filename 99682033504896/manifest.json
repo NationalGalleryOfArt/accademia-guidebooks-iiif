@@ -194,7 +194,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/1#xywh=1019,1768,740,200",
                             "body": {
                                 "type": "TextualBody",
@@ -405,7 +405,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/5/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/5#xywh=605,458,1259,155",
                             "body": {
                                 "type": "TextualBody",
@@ -568,7 +568,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/8/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/8#xywh=1043,3271,554,221",
                             "body": {
                                 "type": "TextualBody",
@@ -635,7 +635,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/9/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/9#xywh=971,389,1551,166",
                             "body": {
                                 "type": "TextualBody",
@@ -798,7 +798,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/12/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/12#xywh=507,420,1623,150",
                             "body": {
                                 "type": "TextualBody",
@@ -961,7 +961,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/15/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/15#xywh=680,426,1483,180",
                             "body": {
                                 "type": "TextualBody",
@@ -1172,7 +1172,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/19/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/19#xywh=241,344,2061,2584",
                             "body": {
                                 "type": "TextualBody",
@@ -1287,7 +1287,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/21/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/21#xywh=1207,360,1461,156",
                             "body": {
                                 "type": "TextualBody",
@@ -1450,7 +1450,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/24/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/24#xywh=1077,430,1180,146",
                             "body": {
                                 "type": "TextualBody",
@@ -1613,7 +1613,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/27/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/27#xywh=766,262,1795,151",
                             "body": {
                                 "type": "TextualBody",
@@ -1776,7 +1776,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/30/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/30#xywh=490,416,1437,158",
                             "body": {
                                 "type": "TextualBody",
@@ -1939,7 +1939,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/33/annopage-2/anno-1",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/canvas/33#xywh=594,421,1419,177",
                             "body": {
                                 "type": "TextualBody",
