@@ -1,0 +1,3240 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Tesoro sagro e venerabile cioé le basiliche, le chiese, i cimiterj, e i santuarj di Roma : con le opere di pietà e di religione che vi si esercitano da' fedeli secolari, e da' claustrali ancora negli oratorj, ospizj, e spedali, coi loro istituti ; e per ultimo del continuo concorso di Pellegrini illustri e Santi / raccolti e con brevità descritti da Giuseppe Vasi ... per disposizione ed apparecchio, del prossimo anno del Giubbileo MDCCLXXV. "
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Gallery of Art Library, Rare (BX2320.5.I8 V37)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Guidebook"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "National Gallery of Art Library"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giuseppe Vasi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1771"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Credit line"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Public Domain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Church of Santa Maria del Popolo; Church of San Lorenzo in Lucina; Piazza di San Lorenzo in Lucina; Piazza Colonna; Church of Santa Maria in Ara Coeli; Capitoline Hill (Campidoglio); Roman Forum (Campo Vaccino); Church of San Pietro in Carcere; Church of Santi Luca e Martina; Church of San Giuseppe dei Falegnami; Church of Santa Martina; Church of Santa Maria Maggiore; Church of Trinità dei Monti; Church of Sant'Atanasio dei Greci; Altemps Palace at Monte Cavallo; Borgo di Sant'Agata; Church of Sant'Agata dei Goti; Church of Santa Maria di Loreto; Church of San Lorenzo ai Monti; Roman Seminary; Church of Santa Maria Rotonda (Pantheon); Church of Santa Maria sopra Minerva; Piazza della Minerva; Church of San Luigi dei Francesci; Church of San Nicola dei Lorenesi; Piazza Navona; Church of Sant'Angelo in Pescheria ; Church of San Nicola in Carcere; Rome"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Dedicated to the cardinal Lazzaro Opizio Pallavicini, secretary of State under Pope Clemens XIV, the Tesoro is a two volumes guidebook organized in eight giornate following the same structure of the Itinerario. Its focus is primarily on the sacred history of the Urbe (historia sacra) as declared by the elaborate frontispiece representing the Catholic church between the basilicas of Saint Peter and Saint John. Easily transportable, it was conceived to meet the needs of the pilgrims who would arrive in Rome shortly after its publication for the Jubilee year of 1775."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "National Gallery of Art Library Catalog"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://library.nga.gov/permalink/01NGA_INST/1qqg09j/alma991168023504896"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/4c6f53d4dcc07d00d2dfa038b212ac96/full/188,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 188
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/1",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, title page"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/4c6f53d4dcc07d00d2dfa038b212ac96/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/4c6f53d4dcc07d00d2dfa038b212ac96/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/4c6f53d4dcc07d00d2dfa038b212ac96",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/1#xywh=698,994,976,209",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Rome (Roma)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/2",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 10"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/d176f658ca7394685bf0b65fe4ef8b12/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/d176f658ca7394685bf0b65fe4ef8b12/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/d176f658ca7394685bf0b65fe4ef8b12",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/3",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 11"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/9a1a22a9b7b8253c715614ca6ed0718a/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/3",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/9a1a22a9b7b8253c715614ca6ed0718a/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/9a1a22a9b7b8253c715614ca6ed0718a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/3/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/3/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/3#xywh=450,1433,985,122",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria del Popolo</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/4",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 12"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f20a3aea1dd2c7de99645e43f6a0c9b1/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/4",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f20a3aea1dd2c7de99645e43f6a0c9b1/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f20a3aea1dd2c7de99645e43f6a0c9b1",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/5",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 18"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/5786a378dfdee7867f62c8a39907c333/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/5",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/5786a378dfdee7867f62c8a39907c333/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/5786a378dfdee7867f62c8a39907c333",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/5/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/5/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/5#xywh=1055,3055,996,134",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo in Lucina</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/6",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 19"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/ae86d153e530c6d0dbe5ae672f7f23cd/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/6",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/ae86d153e530c6d0dbe5ae672f7f23cd/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/ae86d153e530c6d0dbe5ae672f7f23cd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/6/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/6/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/6#xywh=93,715,1583,1061",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza di San Lorenzo in Lucina is the square in front of San Lorenzo in Lucina, the church to which it owes its name.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/7",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 20"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/e39cf7619f7de7db1c86a8cfda70af9d/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/7/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/7/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/7",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/e39cf7619f7de7db1c86a8cfda70af9d/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/e39cf7619f7de7db1c86a8cfda70af9d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/8",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 21"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/612f882f1d525ade85015ba4f83d083b/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/8/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/8/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/8",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/612f882f1d525ade85015ba4f83d083b/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/612f882f1d525ade85015ba4f83d083b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/9",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 26"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/bb4b5160f45ef69e89e2e328f39912a2/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/9/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/9/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/9",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/bb4b5160f45ef69e89e2e328f39912a2/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/bb4b5160f45ef69e89e2e328f39912a2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/9/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/9/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/9#xywh=1049,1100,538,125",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Colonna</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/10",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 27"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/3f7647e30a6e92d776a04cb6180bcdf6/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/10/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/10/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/10",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/3f7647e30a6e92d776a04cb6180bcdf6/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/3f7647e30a6e92d776a04cb6180bcdf6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/11",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 44"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/de92c81ea77e286ceb893d0084328ba0/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/11/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/11/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/11",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/de92c81ea77e286ceb893d0084328ba0/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/de92c81ea77e286ceb893d0084328ba0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/11/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/11/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/11#xywh=1098,2679,957,118",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria in Ara Coeli (named as Chiesa di S. Maria d’ Araceli)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/12",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 45"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/646d778a4fd7ee2f861f9aed4d790dd5/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/12/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/12/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/12",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/646d778a4fd7ee2f861f9aed4d790dd5/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/646d778a4fd7ee2f861f9aed4d790dd5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/13",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 46"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/86b46f0327edf937be29c446e9e7a2ad/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/13/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/13/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/13",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/86b46f0327edf937be29c446e9e7a2ad/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/86b46f0327edf937be29c446e9e7a2ad",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/13/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/13/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/13#xywh=1054,2410,428,120",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Capitoline Hill (Campidoglio)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/14",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 47"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/55f579623fcf553e44ea85a0c12a168b/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/14/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/14/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/14",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/55f579623fcf553e44ea85a0c12a168b/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/55f579623fcf553e44ea85a0c12a168b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/15",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 48"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/81a6b1fa8499bd634d733226cbfbbcab/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/15/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/15/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/15",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/81a6b1fa8499bd634d733226cbfbbcab/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/81a6b1fa8499bd634d733226cbfbbcab",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/16",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 49"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/5bbdb4d26986e762ab03f5f37e7c511a/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/16/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/16/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/16",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/5bbdb4d26986e762ab03f5f37e7c511a/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/5bbdb4d26986e762ab03f5f37e7c511a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/17",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 50"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/623512eeca5861c378206e78ac7e3d92/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/17/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/17/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/17",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/623512eeca5861c378206e78ac7e3d92/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/623512eeca5861c378206e78ac7e3d92",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/18",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 51"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/b1aa22ca0cd73116d6700b922af2a927/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/18/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/18/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/18",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/b1aa22ca0cd73116d6700b922af2a927/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/b1aa22ca0cd73116d6700b922af2a927",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/18/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/18/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/18#xywh=376,2612,555,107",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Forum (Campo Vaccino)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/19",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 52"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/179d9ba4399c3ce2e98f8db934c12ac9/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/19/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/19/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/19",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/179d9ba4399c3ce2e98f8db934c12ac9/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/179d9ba4399c3ce2e98f8db934c12ac9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/19/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/19/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/19#xywh=1130,1219,923,114",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Pietro in Carcere</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 53"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/080d2db038f13f39910d91928b43a631/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/080d2db038f13f39910d91928b43a631/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/080d2db038f13f39910d91928b43a631",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20#xywh=274,1664,662,123",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santi Luca e Martina (named as Chiesa di S<em>anta</em> Martina).&nbsp;The entry mentions the Compagnia dei Pittori in 1588, but not the change of the name to Santi Luca e Martina.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/20#xywh=148,1131,1426,307",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Giuseppe dei Falegnami</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/21",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 54"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/90975c9c343737a9697651a38038cf3f/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/21/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/21/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/21",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/90975c9c343737a9697651a38038cf3f/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/90975c9c343737a9697651a38038cf3f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/22",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 108"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/0d8772a88f2a59ec003236c1cae3b7ce/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/22/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/22/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/22",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/0d8772a88f2a59ec003236c1cae3b7ce/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/0d8772a88f2a59ec003236c1cae3b7ce",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/22/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/22/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/22#xywh=1090,1287,1024,114",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Maggiore</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/23",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 109"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/2e98737f565d66b95236edb257ddb6ff/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/23/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/23/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/23",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/2e98737f565d66b95236edb257ddb6ff/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/2e98737f565d66b95236edb257ddb6ff",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/24",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 110"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/7fc476e39a7b6637c9d598df04fcadc7/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/24/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/24/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/24",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/7fc476e39a7b6637c9d598df04fcadc7/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/7fc476e39a7b6637c9d598df04fcadc7",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/25",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 111"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/6ac607a0fe5c964592adc752652fbb86/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/25/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/25/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/25",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/6ac607a0fe5c964592adc752652fbb86/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/6ac607a0fe5c964592adc752652fbb86",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/26",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 112"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/7642283ffbcc1d859d8cd6b2c8877e16/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/26/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/26/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/26",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/7642283ffbcc1d859d8cd6b2c8877e16/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/7642283ffbcc1d859d8cd6b2c8877e16",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/27",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 158"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f3309212664ab82494f6c71bd754cce5/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/27/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/27/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/27",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f3309212664ab82494f6c71bd754cce5/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f3309212664ab82494f6c71bd754cce5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/27/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/27/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/27#xywh=1032,2691,1063,101",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Trinità dei Monti</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/28",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 159"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/b1abef99d82bf9b6a3c33c46f68f9739/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/28/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/28/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/28",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/b1abef99d82bf9b6a3c33c46f68f9739/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/b1abef99d82bf9b6a3c33c46f68f9739",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/29",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 160"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/bbc478f1f49d74629396623586ae20a9/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/29/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/29/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/29",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/bbc478f1f49d74629396623586ae20a9/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/bbc478f1f49d74629396623586ae20a9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/30",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 165"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/2e375f6a2fa0f507b6a20b8c00eaebb3/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/30/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/30/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/30",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/2e375f6a2fa0f507b6a20b8c00eaebb3/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/2e375f6a2fa0f507b6a20b8c00eaebb3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/30/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/30/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/30#xywh=434,3069,1072,90",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Atanasio dei Greci</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/31",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 166"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/444d74999b46144aede58253d49d92a8/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/31/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/31/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/31",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/444d74999b46144aede58253d49d92a8/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/444d74999b46144aede58253d49d92a8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/32",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 186"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/46a93793708fc26a0dc7a44cb66bd197/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/32/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/32/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/32",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/46a93793708fc26a0dc7a44cb66bd197/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/46a93793708fc26a0dc7a44cb66bd197",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/32/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/32/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/32#xywh=1079,2113,676,144",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Altemps Palace at Monte Cavallo.&nbsp;This guidebook reports&nbsp;Altemps&nbsp;Palace&nbsp;as belonging to its most recent owners, the Pallavicini-Rospigliosi&nbsp;family (about&nbsp;1704–present). It does not mention the chain of previous owners: Scipione Borghese Caffarelli&nbsp;(1577–1633),&nbsp;about&nbsp;1605–1616; Duke Giovanni Angelo Altemps&nbsp;(1587–1620),&nbsp;about&nbsp;1616–1619; Guido Bentivoglio&nbsp;(1579–1644); Cardinal Giulio Mazarino (1602–1661), until about&nbsp;1704;&nbsp;and the Pallavicini-Rospigliosi&nbsp;family (about&nbsp;1704–present).</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/33",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 189"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/99ec70a4e85da4d0b5dddac2d973c480/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/33/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/33/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/33",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/99ec70a4e85da4d0b5dddac2d973c480/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/99ec70a4e85da4d0b5dddac2d973c480",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/33/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/33/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/33#xywh=444,958,935,109",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Agata dei Goti. The&nbsp;Borgo di Sant'Agata was located in the vicinity of this church.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/34",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 190"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/9bade7e0ad50121d8923029cae3adbd8/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/34/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/34/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/34",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/9bade7e0ad50121d8923029cae3adbd8/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/9bade7e0ad50121d8923029cae3adbd8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/35",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 194"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/e5adf95aa1bd03529f28aec6e0860f36/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/35/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/35/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/35",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/e5adf95aa1bd03529f28aec6e0860f36/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/e5adf95aa1bd03529f28aec6e0860f36",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/35/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/35/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/35#xywh=1172,2693,946,115",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria di Loreto</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/36",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 195"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f62455d9d2ee155a3166d66db42a6f0f/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/36/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/36/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/36",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f62455d9d2ee155a3166d66db42a6f0f/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/f62455d9d2ee155a3166d66db42a6f0f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/37",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 205"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/6331107fa6177f07a351c9a31a02e728/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/37/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/37/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/37",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/6331107fa6177f07a351c9a31a02e728/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/6331107fa6177f07a351c9a31a02e728",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/37/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/37/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/37#xywh=409,641,942,120",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Lorenzo ai Monti</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/38",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 206"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/a111f57a5421ffe92616ffa3ecf1488e/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/38/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/38/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/38",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/a111f57a5421ffe92616ffa3ecf1488e/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/a111f57a5421ffe92616ffa3ecf1488e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/39",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 242"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/cbd0cc5f86185f6c67976491b4d39b43/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/39/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/39/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/39",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/cbd0cc5f86185f6c67976491b4d39b43/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/cbd0cc5f86185f6c67976491b4d39b43",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/39/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/39/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/39#xywh=1052,2652,688,111",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Roman Seminary</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/40",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 243"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/8d1358b92859bd566ab6570ca146320d/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/40/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/40/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/40",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/8d1358b92859bd566ab6570ca146320d/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/8d1358b92859bd566ab6570ca146320d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/41",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 244"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/882a4d777acc1c74b6f15fe693d55c58/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/41/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/41/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/41",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/882a4d777acc1c74b6f15fe693d55c58/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/882a4d777acc1c74b6f15fe693d55c58",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/41/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/41/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/41#xywh=1176,664,1085,118",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria Rotonda (Pantheon). The Pantheon became known as Sancta Maria ad Martyres in 609 CE, when Pope Boniface IV converted the pagan temple into a Christian basilica and moved the remains of many martyrs from the Christian catacombs to this site.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/42",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 245"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/d6a399448481069031ce4b566169122e/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/42/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/42/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/42",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/d6a399448481069031ce4b566169122e/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/d6a399448481069031ce4b566169122e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/43",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 246"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/96343df66cee3d9b7940c29801e2bd7a/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/43/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/43/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/43",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/96343df66cee3d9b7940c29801e2bd7a/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/96343df66cee3d9b7940c29801e2bd7a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/43/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/43/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/43#xywh=1108,2278,1111,99",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Santa Maria sopra Minerva</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/44",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 247"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/abfc400cfc50f92121066e5a324a0569/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/44/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/44/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/44",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/abfc400cfc50f92121066e5a324a0569/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/abfc400cfc50f92121066e5a324a0569",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/45",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 248"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/39805a83e57f99472ac6661b20955b44/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/45/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/45/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/45",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/39805a83e57f99472ac6661b20955b44/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/39805a83e57f99472ac6661b20955b44",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/45/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/45/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/45#xywh=1999,1671,380,77",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza della Minerva</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/46",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 258"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/81d288b1809e8cf19c5307a68dd359fd/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/46/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/46/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/46",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/81d288b1809e8cf19c5307a68dd359fd/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/81d288b1809e8cf19c5307a68dd359fd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/46/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/46/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/46#xywh=1173,2846,1002,124",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Luigi dei Francesci</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/47",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 259"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/da944d538b031b0b72b3a286522977f9/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/47/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/47/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/47",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/da944d538b031b0b72b3a286522977f9/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/da944d538b031b0b72b3a286522977f9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/48",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 279"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/ac7b6d1f20279ab6e2e1b0e683ef27c5/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/48/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/48/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/48",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/ac7b6d1f20279ab6e2e1b0e683ef27c5/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/ac7b6d1f20279ab6e2e1b0e683ef27c5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/48/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/48/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/48#xywh=464,2303,1001,122",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola dei Lorenesi (named as Chiesa di S. Niccolò de’ Lorenesi)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/49",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 280"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/4fa6e6477c34c8cf89b4b49b5fcbc4c2/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/49/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/49/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/49",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/4fa6e6477c34c8cf89b4b49b5fcbc4c2/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/4fa6e6477c34c8cf89b4b49b5fcbc4c2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/49/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/49/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/49#xywh=1224,633,556,126",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Piazza Navona</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/50",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 302"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/0fffe28095e1f77243e1e32b72ceef9f/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/50/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/50/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/50",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/0fffe28095e1f77243e1e32b72ceef9f/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/0fffe28095e1f77243e1e32b72ceef9f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/50/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/50/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/50#xywh=1267,2514,1010,114",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of Sant'Angelo in Pescheria </p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/51",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 303"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/83b1b6e62a28f96414764b632f4afa7d/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/51/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/51/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/51",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/83b1b6e62a28f96414764b632f4afa7d/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/83b1b6e62a28f96414764b632f4afa7d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/52",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 304"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/a269f084b6d350381b1765ed1349bdaa/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/52/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/52/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/52",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/a269f084b6d350381b1765ed1349bdaa/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/a269f084b6d350381b1765ed1349bdaa",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/52/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/52/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "tagging",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/52#xywh=1329,2958,942,94",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Church of San Nicola in Carcere (named as Chiesa di S. Niccolò in Carcere)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/53",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2560,
+            "label": {
+                "none": [
+                    "volume 1, page 305"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/71639d560f7ac5931a37ce7415a7ad9b/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/53/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/53/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/53",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/71639d560f7ac5931a37ce7415a7ad9b/full/1250,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1250,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/71639d560f7ac5931a37ce7415a7ad9b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/54",
+            "type": "Canvas",
+            "height": 4096,
+            "width": 2645,
+            "label": {
+                "none": [
+                    "volume 1, page 306"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/048a15cc5536dba354ff9be06232736d/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/54/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/54/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/canvas/54",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/048a15cc5536dba354ff9be06232736d/full/1292,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1292,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/048a15cc5536dba354ff9be06232736d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

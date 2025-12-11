@@ -9,20 +9,119 @@
     },
     "thumbnail": [
         {
-            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682013504896/290d43d615c49f22e76f78a2245fb054/full/212,300/0/default.jpg",
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991195803504896/902f0cb5d8e294081a6678e971b10916/full/219,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
-            "width": 212
+            "width": 219
         }
     ],
     "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991195803504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "De Roma prisca et noua uarii auctores prout in sequenti pagella cernere est. "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99838563504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Le Cose maravigliose dell'alma citta di Roma, anfiteatro del mondo"
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99565283504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Trattato nuovo delle cose maravigliose dell'alma citta' di Roma : ornato de molte figure, nel quale si discorre de 300. & più chiese / composto da F. Pietro Martire Felini ... ; et de tutte le antichita figurate d'essa città, già da Prospero Parisio aumentate, et hora dal sopradetto F. Pietro Martire con diligenza corrette, ampliate, e con bellissimo ordine disposte. "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99838523504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Tesori nascosti dell'alma città di Roma : con nuovo ordine / ristampati, & in molti luoghi arricchiti da Ottavio Panciroli ... Si sono aggionti tre indici, uno delle chiese, l'altro delle reliquie, il terzo dell'indulgenze ... "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682033504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Grandezze della città di Roma antiche e moderne come al presente si ritrovano, di nuovo ristampato in quattro linguaggi: latino, volgare, francese, tedesco, ad istanza di Iacomo Marcucci. "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99836533504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ritratto di Roma Moderna. All'Eminentiss. e Reuerendiss. Sig.re il Sig. Cardi Antoni Barberino "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99564023504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roma antica e moderna nella quale si contengono chiese, monasterij, hospedali, compagnie, collegij, e seminarij, tempij, teatri, anfiteatri, naumachie, cerchi, fori, curie, palazzi e statue, librarie, musei, pitture, scolture, & i nomi de gli artifici, indice de' sommi pontefici, imperatori, rè, e duchi, con una copiosissima tavola, e aggiunta di tutte le cose notabili fatte sino al presente. "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682093504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roma sacra antica e moderna : figurata, e divisa in tre parti, nella prima delle quali si contengono tutte le chiese, reliquie, stationi, indulgenze, ospedali, monasteri, compagnie, collegij seminari, pitture, e scolture, con la vita de' fondatori, e nomi degl'artefici. Nella seconda si contiene la genealogia di Romolo, la serie de i rè, consoli, e imperatori, teatri, anfiteatri, naumachie, cerchij, fori, curie, palazzi, & altre antichità. Nella terza si contiene la descrittione dello stato presente secondo l'ordine di quattordici rioni, con le loro strade, piazze, fontane, ... medaglie, di tutti i pontefici delineate dal famoso tempesta, e nomi dell'imperatori, rè, e duchi. Cauate da Tito Liuio, ... & altri graui autori; con tauola copiosa, & aggionta di tutte le cose notabili. "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99416683504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roma ampliata e rinovata, o sia nuova descrizione della moderna cittá di Roma, e di tutti gli edifizi notabili, che sono in essa ... "
+                ]
+            }
+        },
         {
             "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99682013504896/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
                     "Descrizione del nuovo ripartimento de' rioni di Roma : fatto per ordine ni N.S. Papa Benedetto XIV. con la notizia di quarto in essi si contiene / opera del conte Bernardino Bernardini patrizio romano. "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/99838583504896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Itinerario istruttivo diviso in otto stazioni o giornate per ritrovare con facilità tutte le antiche e moderne magnificenze di Roma / da Giuseppe Vasi ; con una breve digressione, sopra alcuna città, e castelli suburbani. "
+                ]
+            }
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-guidebooks-iiif/991168023504896-1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Tesoro sagro e venerabile cioé le basiliche, le chiese, i cimiterj, e i santuarj di Roma : con le opere di pietà e di religione che vi si esercitano da' fedeli secolari, e da' claustrali ancora negli oratorj, ospizj, e spedali, coi loro istituti ; e per ultimo del continuo concorso di Pellegrini illustri e Santi / raccolti e con brevità descritti da Giuseppe Vasi ... per disposizione ed apparecchio, del prossimo anno del Giubbileo MDCCLXXV. "
                 ]
             }
         }
