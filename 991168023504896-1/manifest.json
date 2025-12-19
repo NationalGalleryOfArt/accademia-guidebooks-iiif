@@ -124,7 +124,7 @@
             },
             "value": {
                 "none": [
-                    "<a href="https://library.nga.gov/permalink/01NGA_INST/1qqg09j/alma991168023504896">Full IIIF Digital View</a>"
+                    "<span><a href='https://library.nga.gov/permalink/01NGA_INST/1qqg09j/alma991168023504896'>Full IIIF Digital View</a></span>"
                 ]
             }
         }
